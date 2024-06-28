@@ -7,7 +7,7 @@ function Search() {
   //multi search
 
   console.log(keyword);
-  return <div>추가했다이부분</div>;
+  return null;
 }
 
 export default Search;
